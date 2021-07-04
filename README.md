@@ -44,6 +44,12 @@ Implement any of the following features to improve the application:
 <img src="/gifts/Demo_Part_2.gif" width=250><br>
 <img src="/gifts/Demo_Part_3.gif" width=250><br>
 
+The API should have a security middleware that only allows authenticated users to access resources and only allows users to access resources about themselves.
+<img src="/gifts/security_middleware.gif" width=250><br>
+
+Each activity tracked should be given a unique id for easy lookup.
+<img src="/gifts/unique_id.gif" width=250><br>
+
 ### Reflection
 
 - Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
