@@ -45,6 +45,7 @@ Implement any of the following features to improve the application:
 <img src="/gifts/Demo_Part_3.gif" width=250><br>
 
 The API should have a security middleware that only allows authenticated users to access resources and only allows users to access resources about themselves.
+<br><img src="/gifts/api_middleware_security_insomnia.gif" width=250><br>
 <br><img src="/gifts/security_middleware.gif" width=250><br>
 
 Each activity tracked should be given a unique id for easy lookup.
